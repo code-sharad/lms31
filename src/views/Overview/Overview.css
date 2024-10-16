@@ -1,0 +1,7 @@
+/* Add this to your CSS file */
+.border-gradient {
+    border: 5px solid;
+    background-image: linear-gradient(white, white), linear-gradient(to right, #6b46c1, #d53f8c);
+    background-clip: padding-box, border-box;
+    background-origin: border-box;
+}
